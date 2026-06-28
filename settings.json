@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "worldwarten.aternos.me:25528",
+    "port": 25528,
     "version": "",
     "try-creative": false
   },
