@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "worldwarten.aternos.me:25528",
+    "ip": "worldwarten.aternos.me",
     "port": 25528,
     "version": "",
     "try-creative": false
